@@ -1,3 +1,7 @@
+# Dashboard
+
+The visualisatons (html file) can be explored through this link: Bank Churn Dashboard
+
 # LLM Prompt Log — Bank Customer Churn Project
 
 **LLM Specialist:** 

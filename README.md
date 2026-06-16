@@ -1,6 +1,6 @@
 # Dashboard
 
-The visualisatons (html file) can be explored through this link: Bank Churn Dashboard
+The visualisatons (html file) can be explored through this link: https://69df70562d2c967a38e3d65a--musical-dieffenbachia-758f48.netlify.app
 
 # LLM Prompt Log — Bank Customer Churn Project
 
